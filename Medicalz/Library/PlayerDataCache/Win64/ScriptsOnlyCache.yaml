@@ -1,0 +1,212 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - QvPen.Udon.UI.QvPen_InteractButton
+    - QvPen.UdonScript.QvPen_Eraser
+    - QvPen.UdonScript.QvPen_EraserManager
+    - QvPen.UdonScript.QvPen_LateSync
+    - QvPen.UdonScript.QvPen_Pen
+    - QvPen.UdonScript.QvPen_PenManager
+    - QvPen.UdonScript.QvPen_Settings
+    - QvPen.UdonScript.UI.QvPen_ClearAllButton
+    - QvPen.UdonScript.UI.QvPen_ResetAllButton
+    - QvPen.UdonScript.UI.QvPen_ShowOrHideButton
+    - QvPen.UdonScript.UI.QvPen_ToggleModeButton
+    UdonSharp.Editor.dll:
+    - UdonSharp.UdonSharpProgramAsset
+    - UdonSharpEditor.UdonSharpAssemblyDefinition
+    Unity.InputSystem.dll:
+    - UnityEngine.InputSystem.InputActionAsset
+    - UnityEngine.InputSystem.InputSettings
+    - UnityEngine.InputSystem.InputSystemObject
+    - UnityEngine.InputSystem.RemoteInputPlayerConnection
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
+    - UnityEditor.Graphs.AnimatorControllerTool
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.Text
+    VRC.ClientSim.Editor.dll:
+    - VRC.SDK3.ClientSim.ClientSimInputAxesSettings
+    VRC.SDKBase.Editor.dll:
+    - VRCSdkControlPanel
+    VRC.Udon.Editor.dll:
+    - VRC.Udon.Editor.ProgramSources.UdonGraphProgram.UI.GraphView.UdonGraphWindow
+    - VRC.Udon.Editor.ProgramSources.UdonGraphProgram.UdonGraphProgramAsset
+    VRC.Udon.dll:
+    - VRC.Udon.ProgramSources.SerializedUdonProgramAsset
+    - VRC.Udon.UdonBehaviour
+    VRCCore-Editor.dll:
+    - BestHTTP.HTTPUpdateDelegator
+    - VRC.Core.PipelineManager
+    - VRC.Core.Pool.PoolManager
+    - VRC.Core.UpdateDelegator
+    - VRCProjectSettings
+    VRCSDK3.dll:
+    - VRC.SDK3.Components.VRCObjectSync
+    - VRC.SDK3.Components.VRCPickup
+    - VRC.SDK3.Components.VRCSceneDescriptor
+    VRCSDKBase.dll:
+    - VRC.SDKBase.Validation.Performance.Stats.AvatarPerformanceStatsLevel
+    - VRC.SDKBase.Validation.Performance.Stats.AvatarPerformanceStatsLevelSet
+  sceneClasses:
+    Assets/mainScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 96
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11544}
+    - Class: 114
+      Script: {instanceID: 11548}
+    - Class: 114
+      Script: {instanceID: 11556}
+    - Class: 114
+      Script: {instanceID: 11614}
+    - Class: 114
+      Script: {instanceID: 13130}
+    - Class: 114
+      Script: {instanceID: 13280}
+    - Class: 114
+      Script: {instanceID: 13282}
+    - Class: 114
+      Script: {instanceID: 14270}
+    - Class: 114
+      Script: {instanceID: 17448}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 120
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 258
+      Script: {instanceID: 0}
+    - Class: 1818360608
+      Script: {instanceID: 0}
+    - Class: 1818360609
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 3614bae5f2ee7232eea55e930d1eb42d
+    assemblyName: VRCSDK3.dll
+    namespaceName: VRC.SDK3.Components
+    className: VRCPickup
+  - hash:
+      serializedVersion: 2
+      Hash: 89f9a1b4c64db9559e39f4a2e3bfaadd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: aeb62f729c52c814dec86c47dcac1471
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 4bc4346a71a8df53a6b106f68ef3a190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: bad0f5a58d4b55ed1442379677ba2587
+    assemblyName: VRC.Udon.dll
+    namespaceName: VRC.Udon.ProgramSources
+    className: SerializedUdonProgramAsset
+  - hash:
+      serializedVersion: 2
+      Hash: dd867c8c1d1106545695dcd8e04e1339
+    assemblyName: VRCSDK3.dll
+    namespaceName: VRC.SDK3.Components
+    className: VRCObjectSync
+  - hash:
+      serializedVersion: 2
+      Hash: cc1aac33f5125bbefd2909802811f14c
+    assemblyName: VRCSDK3.dll
+    namespaceName: VRC.SDK3.Components
+    className: VRCSceneDescriptor
+  - hash:
+      serializedVersion: 2
+      Hash: 55caa267dabff880fc180f037fbb0fd0
+    assemblyName: VRC.Udon.dll
+    namespaceName: VRC.Udon
+    className: UdonBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: 5db75d920ffb77b623077e95eb9ecdb8
+    assemblyName: VRCCore-Editor.dll
+    namespaceName: VRC.Core
+    className: PipelineManager
+  platform: 19
+  scenePathNames:
+  - Assets/mainScene.unity
+  playerPath: C:/Users/guzma/AppData/Local/Temp/DefaultCompany/Medicalz/scene-standalonewindows64-mainscene.vrcw
